@@ -1,7 +1,7 @@
 ### Hi there, I'm SCONDARM - My Website [SCONDARM][website] 👋
 
-[![Website](https://img.shields.io/website?label=SCONDARM.com&style=for-the-badge&url=https%3A%2F%2FSCONDARM.com)](https://mouadaninou9.wixsite.com/scondarm)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SCONDARM<r?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/scondarm
+[![Website](https://img.shields.io/website?label=SCONDARM.com&style=for-the-badge&url=https%3A%2F%2FSCONDARM.com)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/SCONDARM<r?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 ## I just started of learning Programming and i hope i do good
 
@@ -13,17 +13,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SCONDARM | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Website.svg" />][website]
-[<img align="left" alt="SCONDARM | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SCONDARM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SCONDARM | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SCONDARM | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="SCONDARM | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
-[<img align="left" alt="SCONDARM | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Pinterest.svg" />][Pianterest]
-[<img align="left" alt="SCONDARM | Tiktol" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Tiktok.svg" />][TikTok]
-[<img align="left" alt="SCONDARM | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Facebook.svg" />][Facebook]
-[<img align="left" alt="SCONDARM | Diacord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
-[<img align="left" alt="SCONDARM | twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Twitch]
+[<img align="left" alt=" | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Website.svg" />][website]
+[<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=" | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
+[<img align="left" alt=" | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Pinterest.svg" />][Pianterest]
+[<img align="left" alt=" | Tiktol" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Tiktok.svg" />][TikTok]
+[<img align="left" alt=" | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Facebook.svg" />][Facebook]
+[<img align="left" alt=" | Diacord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
+[<img align="left" alt=" | twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Twitch]
 
 <br />
 
